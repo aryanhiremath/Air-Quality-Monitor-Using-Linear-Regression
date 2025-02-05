@@ -1,7 +1,7 @@
 # Air Quality Monitor Using Linear Regression
 
 ## Overview
-This project aims to develop an air quality monitoring system that uses linear regression to analyze and predict air pollution levels. The system collects real-time environmental data, processes it, and provides insights into air quality trends
+This project aims to develop an air quality monitoring system that uses linear regression to analyze and predict air pollution levels. The system collects real-time environmental data, processes it, and provides insights into air quality trends.
 
 ## Features
 - Real-time air quality data collection
