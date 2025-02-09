@@ -12,7 +12,7 @@ This project aims to develop an air quality monitoring system that uses linear r
 ## Technologies Used
 - Python
 - Scikit-Learn
-- Pandas & NumPy
+- Pandas & NumP
 - Matplotlib & Seaborn
 - Sensor Data (if applicable)
 
